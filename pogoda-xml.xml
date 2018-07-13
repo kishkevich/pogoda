@@ -1,0 +1,78 @@
+<root>
+
+<name>Super duper Weather Center</name>
+<weather>
+<element>
+<date>2018-07-14</date>
+<description>weak rain</description>
+<humidity>90</humidity>
+<id>0</id>
+<location>
+<element>Minsk, BY</element>
+</location>
+<temp_max>22</temp_max>
+<temp_min>15</temp_min>
+<title>weak rain</title>
+</element>
+<element>
+<date>2018-07-17</date>
+<description>partly cloudy</description>
+<humidity>65</humidity>
+<id>1</id>
+<location>
+<element>London, GB</element>
+</location>
+<temp_max>25</temp_max>
+<temp_min>15</temp_min>
+<title>partly cloudy</title>
+</element>
+<element>
+<date>2018-07-14</date>
+<description>fair</description>
+<humidity>40</humidity>
+<id>2</id>
+<location>
+<element>Rome, IT</element>
+</location>
+<temp_max>31</temp_max>
+<temp_min>20</temp_min>
+<title>fair</title>
+</element>
+<element>
+<date>2018-07-14</date>
+<description>partly cloudy</description>
+<humidity>67</humidity>
+<id>3</id>
+<location>
+<element>Berlin, DEU</element>
+</location>
+<temp_max>27</temp_max>
+<temp_min>13</temp_min>
+<title>partly cloudy</title>
+</element>
+<element>
+<date>2018-07-14</date>
+<description>overcast</description>
+<humidity>61</humidity>
+<id>4</id>
+<location>
+<element>Moscow, RU</element>
+</location>
+<temp_max>25</temp_max>
+<temp_min>16</temp_min>
+<title>overcast</title>
+</element>
+<element>
+<date>2015-03-30 12:30:00 +0300</date>
+<description>cloudy</description>
+<humidity>56</humidity>
+<id>5</id>
+<location>
+<element>Paris, FRA</element>
+</location>
+<temp_max>33</temp_max>
+<temp_min>22</temp_min>
+<title>cloudy</title>
+</element>
+</weather>
+</root>
