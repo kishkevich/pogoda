@@ -1,0 +1,67 @@
+{"weather":
+[{
+"date":"2018-07-14",
+"description":"clear",
+"humidity":"50",
+"id":"6",
+"location":"Canberra, AUS",
+"temp_max":"15",
+"temp_min":"6",
+"title":"clear"
+},
+
+{
+"date":"2018-07-17",
+"description":"partly cloudy",
+"humidity":"46",
+"id":"7",
+"location":"Vienna, AUT",
+"temp_max":"27",
+"temp_min":"21",
+"title":"partly cloudy"
+},
+
+{
+"date":"2018-07-14",
+"description":"clear",
+"humidity":"40",
+"id":"8",
+"location":"Buenos Aires, BRA",
+"temp_max":"9",
+"temp_min":"0",
+"title":"clear"
+},
+
+{
+"date":"2018-07-14",
+"description":"partly cloudy",
+"humidity":"45",
+"id":"9",
+"location":"Brussels, BEL",
+"temp_max":"28",
+"temp_min":"17",
+"title":"partly cloudy",
+},
+
+{
+"date":"2018-07-14",
+"description":"overcast",
+"humidity":"42",
+"id":"10",
+"location":"Copenhagen, DNK",
+"temp_max":"15",
+"temp_min":"6",
+"title":"overcast"
+},
+
+{
+"date":"2015-03-30",
+"description":"clear",
+"humidity":"34",
+"id":"11",
+"location":"Madrid, ESP",
+"temp_max":"33",
+"temp_min":"20",
+"title":"clear"
+}]
+}
